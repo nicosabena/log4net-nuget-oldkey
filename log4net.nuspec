@@ -41,10 +41,5 @@ log4net is designed with two distinct goals in mind: speed and flexibility</desc
 		<file src="lib\net40-client\log4net.xml" target="lib\net40-client" />
 		<file src="lib\net40-full\log4net.dll" target="lib\net40-full" />
 		<file src="lib\net40-full\log4net.xml" target="lib\net40-full" />
-		
-		<file src="content\web.config.transform" target="content\web.config.transform" />
-		<file src="content\app.config.transform" target="content\app.config.transform" />
-		
-		<file src="content\Properties\AssemblyInfo.log4net.cs.pp" target="content\Properties\AssemblyInfo.log4net.cs.pp" />
 	</files>
 </package>
