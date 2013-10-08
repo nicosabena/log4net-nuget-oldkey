@@ -11,7 +11,7 @@ At the same time, log output can be so voluminous that it quickly becomes overwh
 
 log4net is designed with two distinct goals in mind: speed and flexibility</description>
 		<authors>Apache Software Foundation</authors>
-		<owners>Apache Software Foundation</owners>
+		<owners>Jiří Činčura</owners>
 		<licenseUrl>http://logging.apache.org/log4net/license.html</licenseUrl>
 		<projectUrl>http://logging.apache.org/log4net/</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
