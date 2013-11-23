@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>/home/stefan/dev/ASF/log4net/tags/1.2.12RC1/bin/mono/1.0/release/log4net</name>
+        <name>/home/stefan/dev/ASF/log4net/tags/1.2.13RC3/bin/mono/1.0/release/log4net</name>
     </assembly>
     <members>
         <member name="T:log4net.Appender.AdoNetAppender">
